@@ -1,5 +1,0 @@
-server:
-  port: 8055
-spring:
-  application:
-    name: threadProject
